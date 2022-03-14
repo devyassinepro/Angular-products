@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Macbook",
+      "price": 4300,
+      "quantity": 5,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Hp",
+      "price": 4300,
+      "quantity": 10,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "yassine Touzani",
+      "price": "20",
+      "quantity": "10",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "f",
+      "price": "2",
+      "quantity": "4",
+      "selected": true,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
